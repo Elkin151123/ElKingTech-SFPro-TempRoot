@@ -1,0 +1,5 @@
+# Build artifacts (attach generated ZIPs directly to GitHub Releases)
+*.zip
+*.log
+.DS_Store
+Thumbs.db
